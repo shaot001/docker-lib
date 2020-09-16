@@ -1,4 +1,4 @@
 FROM shaot666/nginx-wget:0.0.1
 MAINTAINER shaot <aoshaot@163.com>
-RUN wget https://get.helm.sh/helm-v3.3.1-linux-amd64.tar.gz
+RUN wget https://github.com/alibaba/canal/archive/canal-1.1.5-alpha-2.zip
 
